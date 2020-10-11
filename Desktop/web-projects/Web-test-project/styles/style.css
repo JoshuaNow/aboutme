@@ -1,0 +1,51 @@
+html {
+  font-size: 30px; /* px means "pixels": the base font size is now 10 pixels high  */
+  font-family: "Inter", sans-serif; /* this should be the rest of the output you got from Google fonts */
+}
+
+h1 {
+  font-size: 30px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 30px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html {
+  background-color: #000080;
+}
+
+body {
+  width: 1200px;
+  margin: 0 auto;
+  background-color: #ffff00;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+h2 {
+	font-size: 30px;
+}
+
+.title {
+    margin: 1em 0 0.5em 0;
+	color: #00539F;
+	font-weight: normal;
+	font-family: 'Ultra', sans-serif;   
+	font-size: 72px;
+	line-height: 84px;
+	text-transform: uppercase;
+	text-shadow: 0 2px white, 0 3px #777;
+    text-align: center
+}
+
+.des {
+font-size: 20px;
+text-align: center;
+}
+h1 , h2 , h3 {
+	color: #000080;
+}
+
